@@ -14,6 +14,10 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Imports: 
     cli,
+    dplyr,
+    fable,
+    fabletools,
+    feasts,
     glue,
     lifecycle,
     rlang,
